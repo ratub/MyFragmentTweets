@@ -1,0 +1,12 @@
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\classes\debug
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-8be2dfb3d79c6a9f7c36b72005b1b1939ee4a9ea.jar
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\codepath-utils-e3ac9d48639b4104900975b68b781f76d64f0b5a.jar
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\classes-cef8442804f0733161c53336d7389a5655590eaf.jar
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\codepath-oauth-0.4.1-4a1a973633f2443d5be6032f8806db0f562d1c9f.jar
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-e1a3ef4c4a597e1963a91faa8055cfdb3f083814.jar
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\scribe-codepath-0.0.3-4aa081a68c1fd1ee4e90bcb7f52389e1b7bcc8ba.jar
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-9e6868c026e0554fd419a6beab22ac416b523533.jar
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-6e3323f6659aa43c2ebddcb1bd13c517c940d44a.jar
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-260f9157e6be3638786fc29cce6ce224a5a7d6f5.jar
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\classes-706918f9120292cbad8207645a07f65a1318af81.jar
+D:\Development\AndroidStudioProjects\MyFragmentTweets\app\build\intermediates\pre-dexed\debug\classes-d9578099a66c3c10bb5a747dfd38c5be20cadcdf.jar
